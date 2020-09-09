@@ -1,8 +1,8 @@
-baseurl: "https://example.com/"
-title: Ghostwriter example
+baseurl: "http://angelawriting.com/"
+title: Angela Writing
 theme: ghostwriter
 languageCode: en-us
-copyright: My Name
+copyright: Angela Ferguson
 disqusShortname: XXX
 googleAnalytics: XXX
 pygmentsUseClasses: true
@@ -28,8 +28,8 @@ privacy:
     useSessionStorage: false
 
 author:
-  name: My Name
-  profile: "https://google.com/+XXX"
+  name: Angela Ferguson
+  profile: "http://www.linkedin.com/in/angelaferguson-techwriter"
 
 taxonomies:
   tag: tags

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing Process on Angela Writing</title>
+    <link>/tags/writing-process/</link>
+    <description>Recent content in Writing Process on Angela Writing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/writing-process/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tips for a successful tech review</title>
+      <link>/tech-reviews/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tech-reviews/</guid>
+      <description>Tips for a successful tech review You&amp;rsquo;ve been working really hard on documenting that new feature, and your docs are almost ready for publishing. You&amp;rsquo;ve been fortunate (this time!) to have a realistic timeline, and you&amp;rsquo;ve been able to get your draft done more than a week before publishing date!
+There&amp;rsquo;s one thing you still need to do.
+Tech Review Request
+Technical review is your chance to get your content in front of the eyeballs of your subject matter experts, or SMEs.</description>
+    </item>
+    
+  </channel>
+</rss>
